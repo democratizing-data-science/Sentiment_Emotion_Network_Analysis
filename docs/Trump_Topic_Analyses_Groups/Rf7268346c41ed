@@ -1,0 +1,18 @@
+[1] "Based on the comparison groups in your data, you should see"
+[1] "7 wordclouds and 7 SENA interactive outputs. You will also obtain one"
+[1] "interactive output of sentiment comparison and one PDF with all"
+[1] "dyadic QAP correlations across all groups."
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+    1.0     1.0     3.0     3.1     4.0    17.0 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  1.000   3.000   5.000   6.282  10.000  24.000 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  1.000   2.000   3.000   3.658   5.000  31.000 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  1.000   1.000   2.000   3.448   4.000  21.000 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  1.000   1.000   2.000   2.168   2.750  15.000 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  1.000   1.000   1.000   1.684   2.000   9.000 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  1.000   1.000   1.000   1.331   2.000   4.000 
